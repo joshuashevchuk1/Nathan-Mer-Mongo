@@ -1,5 +1,5 @@
 # Nathan-Mer-Mongo
-Tiny git repo with a Dockerfile to start mongo
+Tiny git repo with a Dockerfile to start mongo on localhost
 
 Docker commands needed for this service
 
