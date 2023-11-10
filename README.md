@@ -15,8 +15,10 @@ Then run the docker container
 docker run -d -p 27017:27017 --name nathan-mongo nathan-mongo-image
 ```
 
+Once the mongo container is up and running, you can either view the contents using mongo shell
+
 ```bash
 mongo --host localhost --port 27017
 ```
 
-Once the mongo container is up and running, you can either view the contents using mongo shell or through a gui such as mongo compass, https://www.mongodb.com/try/download/compass. 
+ or through a gui such as mongo compass, https://www.mongodb.com/try/download/compass. 
